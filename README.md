@@ -1,4 +1,2 @@
-# All-Terrain-Robot-Based-on-Arduino
- China Robotics and Artificial Intelligence Competition: All Terrain Adaptive Robots
+The repositories is a baseline for "All Terrain Adaptive Robots, China Robotics and Artificial Intelligence Competition"
 
-Author's email: guodong-ma@outlook.com
